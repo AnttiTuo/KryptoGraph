@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|C:\\Users\\k2202473\\Desktop\\KryptoGraph\\kryptograph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|solutionrelative:kryptograph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|C:\\Users\\k2202473\\Desktop\\KryptoGraph\\kryptograph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|solutionrelative:kryptograph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|c:\\users\\k2202473\\desktop\\kryptograph\\kryptograph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|solutionrelative:kryptograph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|C:\\Users\\k2202473\\Desktop\\KryptoGraph\\kryptograph\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699E39F-B8CC-4D66-9116-446783566095}|KryptoGraph\\KryptoGraph.csproj|solutionrelative:kryptograph\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KryptoGraph\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.Designer.cs",
+              "RelativeToolTip": "KryptoGraph\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:18:37.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.cs",
+              "RelativeDocumentMoniker": "KryptoGraph\\Form1.cs",
+              "ToolTip": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.cs",
+              "RelativeToolTip": "KryptoGraph\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:13:52.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Program.cs",
+              "RelativeDocumentMoniker": "KryptoGraph\\Program.cs",
+              "ToolTip": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Program.cs",
+              "RelativeToolTip": "KryptoGraph\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:12:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.cs",
+              "RelativeDocumentMoniker": "KryptoGraph\\Form1.cs",
+              "ToolTip": "C:\\Users\\k2202473\\Desktop\\KryptoGraph\\KryptoGraph\\Form1.cs [Design]",
+              "RelativeToolTip": "KryptoGraph\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:30:40.078Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
